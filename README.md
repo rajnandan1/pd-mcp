@@ -1,6 +1,6 @@
 # Pipedream MCP Server
 
-> **⚠️ Important Notice**: This MCP server is a **reference implementation only** and is no longer actively maintained. For production use, we recommend using Pipedream's **remote MCP server** instead.
+> **⚠️ Important Notice**: This MCP server is a **reference implementation only** and is no longer actively maintained. For production use, we recommend using Pipedream's **remote MCP server** instead.2
 
 ## Recommended: Use Pipedream's Remote MCP Server
 
